@@ -1,5 +1,5 @@
 # Emotion-Recognition-from-Facial-Expressions-Using-Deep-Learning
-Sure! Here’s the **full ready-to-use README.md** for your GitHub project. You can copy and paste it directly:
+Hosted link - https://huggingface.co/spaces/Janusha/Emotion_Recognition_from_Facial_Expressions
 
 
 A Python-based **Facial Emotion Recognition** system using **Convolutional Neural Networks (CNN)** and **MobileNetV2**, with a **real-world Tkinter GUI** for interactive testing. This project allows users to load images and see predicted emotions with confidence scores.
